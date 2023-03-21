@@ -159,7 +159,7 @@ function draw() {
       textAlign(CENTER);
       text("Hammer Bugs",200,200);
       textSize(30);
-      text("Press a key to begin",200,300);
+      text("Press space key to begin",200,300);
       textSize(20);
       text("The hammer follows the mouse.",200,350);
       break;
